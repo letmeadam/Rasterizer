@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+  Rasterizer.cpp
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(34): warning C4005: 'BACKGROUND_RED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wincon.h(190): note: see previous definition of 'BACKGROUND_RED'
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(35): warning C4005: 'BACKGROUND_GREEN': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wincon.h(189): note: see previous definition of 'BACKGROUND_GREEN'
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(36): warning C4005: 'BACKGROUND_BLUE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wincon.h(188): note: see previous definition of 'BACKGROUND_BLUE'
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(370): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(371): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(372): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(378): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(379): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(380): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(381): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(383): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(384): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(385): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(386): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(388): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(389): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(390): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(391): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(394): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(395): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(396): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(429): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(430): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(434): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(461): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(467): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(545): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(548): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(579): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(628): warning C4244: '=': conversion from 'std::numeric_limits<int>::_Ty' to 'float', possible loss of data
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(661): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(669): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\rasterizer\rasterizer\rasterizer.cpp(727): warning C4018: '<': signed/unsigned mismatch
+  Math3D.cpp
+  Math2D.cpp
+  Image.cpp
+  Generating Code...
+  Rasterizer.vcxproj -> C:\Users\Admin\source\repos\Rasterizer\Debug\Rasterizer.exe
